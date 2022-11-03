@@ -1,0 +1,7 @@
+ipykernel
+nbformat
+requests
+matplotlib
+pandas
+plotly
+sklearn
